@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: center;
     min-height: 100vh;
-
+    cursor: url(/viruspointer.png),pointer;
 }
 .face{
     position: relative;
